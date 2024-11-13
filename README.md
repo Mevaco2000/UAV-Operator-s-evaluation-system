@@ -21,4 +21,5 @@ Repo is only for presentation purposes it may not work from many reasons such:
 - you are supposed to be equipped with heart rate sensor
 - you are supposed to have installed AirSim simulator
 - you have to be equipped with VR googles
+
 So if you dont mind, take code and read. However you will not withstand till the end because its my first very big project. Thanks for your forbearance!
