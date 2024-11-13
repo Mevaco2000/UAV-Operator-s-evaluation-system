@@ -15,3 +15,10 @@ The values recorded during both stages of testing are the input values of the de
 - A network assessing the subject's heart rate during the virtual reality tests
 
 All networks had to assign an output variable, which was their assessment, to the corresponding input data sets. Two categories of output variables were considered: positive and negative ratings. All output values from the neural networks evaluating the different factors were assigned the corresponding position in the binary system, thanks to this solution it is possible to directly decide which factor is more relevant to the BSP operator from our point of view. 
+
+#Attention!
+Repo is only for presentation purposes it may not work from many reasons such:
+- you are supposed to be equipped with heart rate sensor
+- you are supposed to have installed AirSim simulator
+- you have to be equipped with VR googles
+So if you dont mind, take code and read. However you will not withstand till the end because its my first very big project. Thanks for your forbearance!
